@@ -2,7 +2,7 @@
 
 This is a react project - A React Advice App. Here, We're going to use React on the front end and we'll make get requests to Advice Slip JSON API using Axios.
 
-#Setup:
+Setup:
 
 - run ```npm i && npm start```
 
