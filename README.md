@@ -4,8 +4,6 @@ This is a react project - A React Advice App. Here, We're going to use React on 
 
 Setup:
 
-- run ```npm i && npm start```
-
 In the project directory, you can run:
 
 ### `npm start`
